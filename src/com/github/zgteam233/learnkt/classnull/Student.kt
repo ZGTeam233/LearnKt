@@ -1,4 +1,4 @@
-package com.github.zgteam233.learnkotlin.classnull
+package com.github.zgteam233.learnkt.classnull
 
 class Student(val sno: String = "", val grade: Int = 0, name: String = "", age: Int = 0) : Person(name, age), Study {
     override fun readBooks() {

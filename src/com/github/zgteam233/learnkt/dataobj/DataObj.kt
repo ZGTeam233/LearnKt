@@ -1,4 +1,4 @@
-package com.github.zgteam233.learnkotlin.dataobj
+package com.github.zgteam233.learnkt.dataobj
 
 fun main() {
     val cellphone1 = Cellphone("三星 Samsung", 1299.99)

@@ -1,4 +1,4 @@
-package com.github.zgteam233.learnkotlin.dataobj
+package com.github.zgteam233.learnkt.dataobj
 
 object Singleton {
     fun singletonTest() {

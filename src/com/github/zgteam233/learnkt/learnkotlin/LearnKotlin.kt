@@ -1,4 +1,4 @@
-package com.github.zgteam233.learnkotlin.learnkotlin
+package com.github.zgteam233.learnkt.learnkotlin
 
 fun main() {
     println("Hello World!")

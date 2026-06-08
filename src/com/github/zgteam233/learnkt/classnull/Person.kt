@@ -1,4 +1,4 @@
-package com.github.zgteam233.learnkotlin.classnull
+package com.github.zgteam233.learnkt.classnull
 
 open class Person(val name: String, val age: Int) {
     fun eat() {

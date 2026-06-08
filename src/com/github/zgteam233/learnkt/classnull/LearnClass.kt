@@ -1,4 +1,4 @@
-package com.github.zgteam233.learnkotlin.classnull
+package com.github.zgteam233.learnkt.classnull
 
 import java.util.Locale.getDefault
 

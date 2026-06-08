@@ -1,4 +1,4 @@
-package com.github.zgteam233.learnkotlin.lambda
+package com.github.zgteam233.learnkt.lambda
 
 import java.util.Locale.getDefault
 import kotlin.collections.iterator
